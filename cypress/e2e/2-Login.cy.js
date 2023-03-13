@@ -1,5 +1,5 @@
 import  user from '../fixtures/user.json'
-import LoginPass from '../support/Classes/login'
+import LoginPass from '../support/Classes/loginPass'
 
  it('login',()=> {
   

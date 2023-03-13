@@ -1,4 +1,4 @@
-import LoginPass from '../support/Classes/login'
+import LoginPass from '../support/Classes/loginPass'
 import  user from '../fixtures/user.json'
 
 describe('Зворотній звʼязок', () => {

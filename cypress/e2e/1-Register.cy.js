@@ -1,5 +1,5 @@
 import  user from '../fixtures/user.json'
-import UserPage from '../support/Classes/Register';
+import UserPage from '../support/Classes/UserPage';
 
 
 it('register',()=> {

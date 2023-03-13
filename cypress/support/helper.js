@@ -8,7 +8,7 @@ export function searchBuyProduct(productName) {
     LoginPass.submitLoginForm(user);
 
     cy.get('#searchQuery')
-  .type(`${productName}{enter}`);
+    .type(`${productName}{enter}`);
     
 
     cy.contains(productName)
